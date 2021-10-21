@@ -1,3 +1,3 @@
 # ansible_tutorial
 Ansible training
-Test tekst
+Dit is een stuk nieuwe tekst.
